@@ -377,7 +377,7 @@ body {
 }
 .love {
   position: absolute;
-  bottom: 100px;
+  bottom: 20px;
   left: 50%;
   transform: translateX(-50%);
   z-index: 1111;
@@ -389,7 +389,7 @@ body {
 }
 @media screen and (max-width: 767px) {
   .love {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 .pause-btn,
